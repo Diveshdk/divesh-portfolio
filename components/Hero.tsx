@@ -28,7 +28,7 @@ const Hero = () => {
             <TextGenerateEffect 
             className="text-center text-[40px]
             md:text-5xl lg:text-6xl"
-            words="Hi I'm Divesh Kankani Full Stack Developer"/>
+            words="Hi I am Divesh Kankani Full Stack Developer"/>
             <br />
             <p className='text-center'>I love Chai more than coding but I am Tech Enthusiastic and Active Learner. I am pursuing Bachelor Of Engineering in Computer Science and will be graduated by 2026. I've created various projects in web development using MERN Stack and NextJS like Chat Application or News App and many more including web3,Blockchain and AI based projects. Graphic Designer not by choice but by skills. Love making memes and editing videos.Can manage events in ReactJS and real life.If you already here, Lets exchange some tech ideas?!</p>
             <br /><a href="/DiveshResume.pdf">
